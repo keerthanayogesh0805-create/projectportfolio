@@ -4,6 +4,7 @@
 https://www.linkedin.com/in/alex-hormozi
 
 ## Post 1
+https://lnkd.in/p/gPApRwb3
 
 Date: 1 day ago 
 Summary:
