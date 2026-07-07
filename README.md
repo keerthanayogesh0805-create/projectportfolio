@@ -19,3 +19,24 @@
 
 ## GitHub Repository
 Repository Name: projectportfolio
+# LinkedIn Organic Content Strategy for B2B SaaS
+
+## Project Overview
+
+This repository contains research on LinkedIn Organic Content Strategy for B2B SaaS.
+
+The goal of this project is to study leading experts, analyze their content, and collect valuable resources that can be used to build a practical playbook.
+
+## Repository Structure
+
+- research/sources.md
+- research/linkedin-posts/
+- research/youtube-transcripts/
+- research/other/
+
+## Research Goal
+
+- Identify 10 leading experts.
+- Collect their recent LinkedIn posts.
+- Collect YouTube transcripts and other useful resources.
+- Organize everything in a structured GitHub repository.
