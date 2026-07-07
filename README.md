@@ -40,3 +40,32 @@ The goal of this project is to study leading experts, analyze their content, and
 - Collect their recent LinkedIn posts.
 - Collect YouTube transcripts and other useful resources.
 - Organize everything in a structured GitHub repository.
+
+  # B2B SaaS LinkedIn Organic Content Strategy Research
+
+## Topic
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Objective
+Research successful experts and collect high-quality content to understand effective LinkedIn content strategies.
+
+## Experts Researched
+- Justin Welsh
+- Alex Hormozi
+- (List the remaining 8 experts)
+
+## Repository Structure
+
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+
+## Contents Collected
+- One LinkedIn post from each expert
+- One YouTube transcript for each expert
+- Sources with links, dates, and notes
+
+## Why These Experts
+These experts regularly publish practical advice on B2B SaaS marketing, LinkedIn growth, content creation, and business growth.
